@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Karan Verma",
+    "title": "Full Stack Java Developer | Software Engineer",
+    "summary": "Java Full Stack Developer with hands-on experience designing and developing scalable backend systems using Java, Spring Boot, RESTful APIs and Microservices architecture. Built real-world applications including geolocation-based ride matching systems and database-driven web platforms with React-based frontend interfaces. Strong foundation in Data Structures, Object-Oriented Programming and backend system design.",
+    "location": "Hyderabad, Telangana, India",
+    "email": "verma8638@gmail.com",
+    "phone": "+91 8827459213",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/karan-verma-0040a127b",
+        "label": "linkedin.com/in/karan-verma-0040a127b"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Karrann03",
+        "label": "github.com/Karrann03"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["Java", "SQL", "JavaScript", "PL/SQL", "HTML", "CSS"]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "items": ["Spring", "Spring Boot", "Spring Data JPA", "Hibernate", "React.js", "Bootstrap", "Java Servlets", "JDBC", "WebSocket"]
+    },
+    {
+      "category": "Databases",
+      "items": ["MySQL", "MongoDB", "Oracle"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Git", "Maven", "Docker", "Postman", "Jenkins", "JIRA", "AWS Basics", "IntelliJ IDEA", "Visual Studio Code", "Eclipse"]
+    },
+    {
+      "category": "Concepts & Methodologies",
+      "items": ["OOP", "MVC Architecture", "Design Patterns (Singleton, Factory, DAO)", "Data Structures", "DBMS", "Computer Networks", "Operating Systems", "Agile", "DevOps"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Yhills Pvt Ltd",
+      "role": "Java Full Stack Developer Intern",
+      "dates": "Jun 2023 – Sep 2023",
+      "location": "Remote/Hyderabad",
+      "bullets": [
+        "Developed backend services using Java and Spring Boot with MySQL integration.",
+        "Implemented REST APIs and CRUD operations for web applications.",
+        "Tested APIs using Postman and maintained source code using Git."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "QuickRide – Cab Booking System",
+      "stack": ["Spring Boot", "React.js", "MySQL"],
+      "bullets": [
+        "Designed REST APIs for ride booking, driver discovery and ride lifecycle management.",
+        "Implemented geolocation-based driver matching using the Haversine distance formula.",
+        "Prevented concurrent ride acceptance using conditional database updates to handle race conditions.",
+        "Developed responsive frontend interfaces using React.js for ride booking and real-time ride tracking."
+      ]
+    },
+    {
+      "title": "E-commerce Web Application",
+      "stack": ["Java Servlets", "JDBC", "MySQL", "HTML", "CSS", "JavaScript"],
+      "bullets": [
+        "Built MVC web application using HTML, CSS and JavaScript.",
+        "Implemented DAO design pattern for database interaction."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science Engineering",
+      "institution": "Kalinga University, Raipur",
+      "dates": "2020 – 2024",
+      "cgpa": "8.13",
+      "coursework": ["Data Structures", "DBMS", "Computer Networks", "Operating Systems"]
+    }
+  ],
+  "achievements": [
+    "Built QuickRide full stack application implementing geolocation-based driver discovery and ride matching logic.",
+    "Developed multiple full stack applications using Spring Boot and MVC architecture."
+  ],
+  "extra": [
+    "I am passionate about working in collaborative environments and take pride in delivering high-quality software solutions that align with both technical requirements and business objectives.",
+    "I am actively seeking opportunities to contribute as a Full Stack Developer and grow in a challenging, innovation-driven role."
+  ]
+}
