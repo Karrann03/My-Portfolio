@@ -57,12 +57,15 @@ const Projects: React.FC = () => {
 
               <div className="pt-6 border-t border-white/5 flex justify-between items-center">
                 <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-white/20">Full Stack Project</span>
-                <motion.button 
+                <motion.a
                   whileHover={{ x: 5 }}
+                  href={project.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-xs font-bold text-white flex items-center gap-2"
                 >
                   View Details <ExternalLink size={14} />
-                </motion.button>
+                </motion.a>
               </div>
             </motion.div>
           ))}

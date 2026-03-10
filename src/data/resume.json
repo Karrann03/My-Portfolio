@@ -63,7 +63,8 @@
         "Implemented geolocation-based driver matching using the Haversine distance formula.",
         "Prevented concurrent ride acceptance using conditional database updates to handle race conditions.",
         "Developed responsive frontend interfaces using React.js for ride booking and real-time ride tracking."
-      ]
+      ],
+      "link": "https://github.com/Karrann03/QuickRide-uber-clone-"
     },
     {
       "title": "E-commerce Web Application",
@@ -71,7 +72,8 @@
       "bullets": [
         "Built MVC web application using HTML, CSS and JavaScript.",
         "Implemented DAO design pattern for database interaction."
-      ]
+      ],
+      "link": "https://github.com/Karrann03/Online-EStore"
     }
   ],
   "education": [
