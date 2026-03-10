@@ -4,7 +4,7 @@ Welcome to my personal **Developer Portfolio Website**.
 This project showcases my **skills, projects, and experience as a Full Stack Java Developer**.
 
 🌐 **Live Portfolio:**  
-https://your-portfolio-link.vercel.app
+[https://your-portfolio-link.vercel.app](https://karan-portfolio-karrann03s-projects.vercel.app)
 
 ---
 
@@ -91,7 +91,104 @@ Clone the repository
 
 ```bash
 git clone https://github.com/Karrann03/your-portfolio-repo.git
-
-```Move into the project folder
+```
+Move into the project folder
+```
 cd your-portfolio-repo
+```
+Install dependencies
+```
+npm install
+```
+Run the project locally
+```
+npm run dev
+```
+Build the project for production
+```
+npm run build
+```
 
+# 📁 Folder Structure
+```
+portfolio/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── styles/
+│   ├── App.tsx
+│   └── main.tsx
+│
+├── screenshots/
+│
+├── package.json
+├── README.md
+└── vite.config.ts
+```
+
+# 🚀 Deployment
+
+This portfolio is deployed using Vercel.
+
+Steps to deploy:
+
+Push your project to GitHub
+
+1.  Go to Vercel
+
+2. Import your GitHub repository
+
+3. Click Deploy
+
+4. Your portfolio will be live in seconds.
+
+---
+
+# 🙋‍♂️ About Me
+
+I am Karan Verma, a passionate Full Stack Java Developer from Hyderabad, Telangana.
+
+I focus on building scalable backend systems and full stack applications.
+
+Technologies I work with:
+
+- Java
+
+- Spring Boot
+
+- Hibernate
+
+- REST APIs
+
+- MySQL
+
+- React.js
+
+- Data Structures and Algorithms
+
+---
+
+# 📬 Contact
+
+- 📧 Email
+verma8638@gmail.com
+
+- 💼 LinkedIn
+https://linkedin.com/in/karan-verma-0040a127b
+
+- 💻 GitHub
+https://github.com/Karrann03
+
+# ⭐ Support
+
+If you like this project, please give it a star on GitHub ⭐.
+
+It motivates me to keep building more projects.
+
+# 📄 License
+
+This project is open for learning and personal inspiration.
