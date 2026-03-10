@@ -4,7 +4,7 @@ Welcome to my personal **Developer Portfolio Website**.
 This project showcases my **skills, projects, and experience as a Full Stack Java Developer**.
 
 🌐 **Live Portfolio:**  
-[https://your-portfolio-link.vercel.app](https://karan-portfolio-karrann03s-projects.vercel.app)
+[https://ykaran-portfolio-link.vercel.app](https://karan-portfolio-karrann03s-projects.vercel.app)
 
 ---
 
