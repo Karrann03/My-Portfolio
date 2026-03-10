@@ -1,145 +1,97 @@
+# 🚀 Karan Verma – Developer Portfolio
 
-🚀 Karan Verma – Developer Portfolio
+Welcome to my personal **Developer Portfolio Website**.  
+This project showcases my **skills, projects, and experience as a Full Stack Java Developer**.
 
-Welcome to my personal developer portfolio website.
-This project showcases my skills, projects, and experience as a Full Stack Java Developer.
+🌐 **Live Portfolio:**  
+https://your-portfolio-link.vercel.app
 
-🔗 Live Portfolio:
-👉 [https://your-portfolio-link.vercel.app](https://karan-portfolio-karrann03s-projects.vercel.app)
+---
 
-📌 About the Project
+# 📌 About The Project
 
-This portfolio website is designed to present my technical skills, projects, and development journey in a clean and interactive way.
+This portfolio website is designed to present my **technical skills, projects, and development journey** in a clean and interactive way.
 
-It highlights my work in backend engineering, full stack development, and scalable application design.
+It highlights my work in **backend engineering, full stack development, and scalable application design**.
 
 The website includes:
 
-👨‍💻 About Me
+- 👨‍💻 About Me
+- 🛠 Skills & Technologies
+- 📂 Featured Projects
+- 📬 Contact Section
+- 🌐 Social Links
+- 📱 Fully Responsive Design
 
-🛠️ Skills & Technologies
+---
 
-📂 Featured Projects
+# 🛠 Tech Stack
 
-📬 Contact Section
+### Frontend
+- React.js
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
 
-🌐 Social Links
+### UI / Animation
+- Framer Motion
+- Responsive Design
 
-🛠️ Tech Stack
-Frontend
+### Deployment
+- Vercel
 
-React.js
+---
 
-TypeScript
+# ✨ Features
 
-HTML5
+✔ Modern UI/UX Design  
+✔ Fully Responsive (Mobile + Desktop)  
+✔ Smooth Animations  
+✔ Project Showcase Section  
+✔ Contact Section  
+✔ Fast Deployment  
+✔ Clean and Scalable Code Structure  
 
-CSS3
+---
 
-Tailwind CSS
+# 📂 Featured Project
 
-Animation & UI
+## 🚗 QuickRide – Uber Clone
 
-Framer Motion
+QuickRide is a ride-hailing application inspired by Uber with **real-time ride request and driver matching system**.
 
-Responsive Design
+### Key Features
 
-Deployment
+- Ride Request System  
+- Nearest Driver Matching  
+- Real-time Ride Tracking  
+- Race Condition Handling (only one driver can accept ride)  
+- Haversine Distance Formula for location calculation  
+- Surge Pricing Logic  
+- REST API based backend architecture  
 
-Vercel
+### Tech Stack
 
-✨ Features
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL
+- REST APIs
+- WebSocket
+- Google Maps API
+- React.js
 
-✔ Modern UI/UX Design
-✔ Fully Responsive (Mobile + Desktop)
-✔ Smooth Animations
-✔ Project Showcase Section
-✔ Contact Section
-✔ Fast Deployment
+---
 
-📂 Featured Projects
-🚗 QuickRide – Uber Clone
-
-A ride-hailing application inspired by Uber with real-time ride request and driver matching system.
-
-Key Features
-
-Ride Request System
-
-Nearest Driver Matching
-
-Real-time Ride Tracking
-
-Race Condition Handling (only one driver can accept ride)
-
-Haversine Distance Formula for location calculation
-
-Surge Pricing Logic
-
-Tech Stack
-
-Java
-
-Spring Boot
-
-Spring Data JPA / Hibernate
-
-MySQL
-
-REST APIs
-
-WebSockets (for real-time updates)
-
-Google Maps API
-
-React.js
-
-📸 Screenshots
-
-Add screenshots here from your portfolio.
-
-Example:
-
-/screenshots/home.png
-/screenshots/projects.png
-/screenshots/contact.png
-⚙️ Installation
+# ⚙️ Installation & Setup
 
 Clone the repository
 
-git clone https://github.com/Karrann03/portfolio.git
+```bash
+git clone https://github.com/Karrann03/your-portfolio-repo.git
 
-Navigate into the project
+```Move into the project folder
+cd your-portfolio-repo
 
-cd portfolio
-
-Install dependencies
-
-npm install
-
-Run the development server
-
-npm run dev
-🌐 Deployment
-
-The portfolio is deployed using Vercel.
-
-To deploy:
-
-npm run build
-
-Then connect the repo to Vercel.
-
-📬 Contact
-
-📧 Email: verma8638@gmail.com
-
-🔗 LinkedIn:
-https://linkedin.com/in/karan-verma-0040a127b
-
-💻 GitHub:
-https://github.com/Karrann03
-
-⭐ Support
-
-If you like this project, consider starring the repository ⭐ on GitHub.
