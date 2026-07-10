@@ -1,98 +1,116 @@
 {
-  "personal": {
+  "basics": {
     "name": "Karan Verma",
-    "title": "Java Backend Developer",
-    "location": "Hyderabad, Telangana",
-    "relocation": "Open to Relocation",
-    "phone": "+91 8827459213",
+    "title": "Full Stack Java Developer | Software Engineer",
+    "summary": "Java Full Stack Developer with hands-on experience designing and developing scalable backend systems using Java, Spring Boot, RESTful APIs and Microservices architecture. Built real-world applications including geolocation-based ride matching systems and database-driven web platforms with React-based frontend interfaces. Strong foundation in Data Structures, Object-Oriented Programming and backend system design.",
+    "location": "Hyderabad, Telangana, India",
     "email": "verma8638@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/karan-verma-0040a127b",
-    "github": "https://github.com/Karrann03"
+    "phone": "+91 8827459213",
+    "links": [
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/karan-verma-0040a127b",
+        "label": "linkedin.com/in/karan-verma-0040a127b"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Karrann03",
+        "label": "github.com/Karrann03"
+      }
+    ]
   },
-  "summary": "Java Backend Developer with 1+ year of professional experience in application maintenance, debugging, and REST API support, plus additional hands-on experience building full-stack applications using Java, Spring Boot, Spring MVC, and MySQL. Skilled in database management, query optimization, and JWT-based security, with working knowledge of Docker, GitHub Actions, and AWS. Comfortable in Agile/SDLC environments with strong fundamentals in OOP, SOLID principles, and system design. Also brings entrepreneurial experience founding and operating a software/digital agency, managing client-facing technical delivery end-to-end.",
-  "skills": {
-    "languages": ["Java", "C", "C++", "Python", "SQL", "JavaScript"],
-    "backend": ["Spring Boot", "Spring MVC", "Spring Data JPA", "Spring Security", "Hibernate", "REST APIs", "Microservices", "JWT Authentication"],
-    "frontend": ["React.js", "HTML5", "CSS3", "JavaScript (ES6+)"],
-    "databases": ["MySQL", "MongoDB", "JDBC", "Query Optimization", "Indexing"],
-    "devopsAndTools": ["Git", "Maven", "Docker", "GitHub Actions", "AWS EC2", "AWS S3", "Postman", "Linux"],
-    "testingAndDebugging": ["JUnit", "Mockito", "Root Cause Analysis", "Bug Triage"],
-    "concepts": ["Data Structures & Algorithms", "OOP", "SOLID Principles", "Design Patterns (MVC, DAO)", "Multithreading", "Concurrency", "Agile/SDLC", "System Design"]
-  },
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["Java", "SQL", "JavaScript", "PL/SQL", "HTML", "CSS"]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "items": ["Spring", "Spring Boot", "Spring Data JPA", "Hibernate", "React.js", "Bootstrap", "Java Servlets", "JDBC", "WebSocket"]
+    },
+    {
+      "category": "Databases",
+      "items": ["MySQL", "MongoDB", "Oracle"]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": ["Git", "Maven", "Docker", "Postman", "Jenkins", "JIRA", "AWS Basics", "IntelliJ IDEA", "Visual Studio Code", "Eclipse"]
+    },
+    {
+      "category": "Concepts & Methodologies",
+      "items": ["OOP", "MVC Architecture", "Design Patterns (Singleton, Factory, DAO)", "Data Structures & Algorithms", "DBMS", "Computer Networks", "Operating Systems", "Agile", "DevOps"]
+    }
+  ],
   "experience": [
     {
-      "role": "Founder",
       "company": "Axiora Labs (Digital And Software Agency)",
-      "location": "Bhopal, Madhya Pradesh",
-      "startDate": "2026-04",
-      "endDate": "Present",
-      "highlights": [
+      "role": "Founder",
+      "dates": "Apr 2026 – Present",
+      "location": "Raipur, Chhattisgarh",
+      "bullets": [
         "Founded and run a digital agency delivering web development and digital marketing services to local businesses, managing end-to-end project delivery and client communication independently."
       ]
     },
     {
-      "role": "Java Developer",
       "company": "Romsan IT Services Pvt Ltd",
+      "role": "Java Developer",
+      "dates": "Oct 2024 – Dec 2025",
       "location": "Bhilai, Chhattisgarh (Remote)",
-      "startDate": "2024-10",
-      "endDate": "2025-12",
-      "highlights": [
+      "bullets": [
         "Performed maintenance, debugging, and issue resolution on existing Java-based applications, improving application stability.",
         "Diagnosed and fixed backend defects across REST API endpoints and database queries, reducing recurring production issues.",
         "Collaborated with the development team on testing, documentation, and release support using standard software development practices."
       ]
     },
     {
-      "role": "Java Developer (Internship)",
       "company": "Yhills Pvt Ltd",
-      "location": "Hyderabad, Telangana",
-      "startDate": "2023-06",
-      "endDate": "2023-09",
-      "highlights": [
-        "Designed and developed RESTful APIs using Spring Boot and MySQL across multiple web modules, improving backend maintainability.",
-        "Applied MVC and DAO design patterns to structure the backend, enforcing separation of concerns and enabling independent module testing.",
-        "Integrated backend services with frontend components across Agile sprints, validating API endpoints using Postman."
+      "role": "Java Full Stack Developer Intern",
+      "dates": "Jun 2023 – Sep 2023",
+      "location": "Remote/Hyderabad",
+      "bullets": [
+        "Developed backend services using Java and Spring Boot with MySQL integration.",
+        "Implemented REST APIs and CRUD operations for web applications.",
+        "Tested APIs using Postman and maintained source code using Git."
       ]
     }
   ],
   "projects": [
     {
-      "name": "QuickRide – Real-Time Cab Booking System",
-      "techStack": ["Spring Boot", "React.js", "MySQL", "JWT", "Docker"],
-      "githubUrl": "https://github.com/Karrann03/QuickRide-fullstack",
-      "highlights": [
-        "Built a full-stack cab booking system with REST APIs covering ride booking, driver discovery, authentication, and role-based access control.",
-        "Implemented concurrency handling using optimistic locking to prevent duplicate ride assignments under simultaneous requests.",
-        "Implemented JWT-based authentication and authorization for user and driver roles using Spring Security.",
-        "Containerized the application using Docker and set up a CI/CD pipeline via GitHub Actions."
-      ]
+      "title": "QuickRide – Cab Booking System",
+      "stack": ["Spring Boot", "React.js", "MySQL"],
+      "bullets": [
+        "Designed REST APIs for ride booking, driver discovery and ride lifecycle management.",
+        "Implemented geolocation-based driver matching using the Haversine distance formula.",
+        "Prevented concurrent ride acceptance using conditional database updates to handle race conditions.",
+        "Developed responsive frontend interfaces using React.js for ride booking and real-time ride tracking."
+      ],
+      "link": "https://github.com/Karrann03/QuickRide-uber-clone-"
     },
     {
-      "name": "E-Commerce Web Application",
-      "techStack": ["Java Servlets", "JDBC", "Oracle", "JSP"],
-      "githubUrl": "https://github.com/Karrann03/Online-EStore",
-      "highlights": [
-        "Built a full-stack e-commerce application using Java Servlets, JDBC, and MySQL with MVC architecture.",
-        "Used connection pooling to reduce database connection overhead and improve efficiency.",
-        "Applied SQL indexing and query optimization to improve response times."
-      ]
+      "title": "E-commerce Web Application",
+      "stack": ["Java Servlets", "JDBC", "MySQL", "HTML", "CSS", "JavaScript"],
+      "bullets": [
+        "Built MVC web application using HTML, CSS and JavaScript.",
+        "Implemented DAO design pattern for database interaction."
+      ],
+      "link": "https://github.com/Karrann03/Online-EStore"
     }
   ],
   "education": [
     {
-      "institution": "Kalinga University",
-      "degree": "B.Tech in Computer Science Engineering",
-      "startDate": "2020",
-      "endDate": "2024",
-      "cgpa": "8.13/10",
-      "relevantCoursework": [
-        "Data Structures & Algorithms",
-        "Object-Oriented Programming",
-        "Database Management Systems",
-        "Operating Systems",
-        "Computer Networks",
-        "Software Engineering"
-      ]
+      "degree": "Bachelor of Technology in Computer Science Engineering",
+      "institution": "Kalinga University, Raipur",
+      "dates": "2020 – 2024",
+      "cgpa": "8.13",
+      "coursework": ["Data Structures & Algorithms", "DBMS", "Computer Networks", "Operating Systems", "Software Engineering"]
     }
+  ],
+  "achievements": [
+    "Built QuickRide full stack application implementing geolocation-based driver discovery and ride matching logic.",
+    "Developed multiple full stack applications using Spring Boot and MVC architecture."
+  ],
+  "extra": [
+    "I am passionate about working in collaborative environments and take pride in delivering high-quality software solutions that align with both technical requirements and business objectives.",
+    "I am actively seeking opportunities to contribute as a Full Stack Developer and grow in a challenging, innovation-driven role."
   ]
 }
